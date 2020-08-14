@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAD2;
+}
+
+li, a, .contact {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FF4500;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.logo {
+    cursor: pointer;
+    margin-right: auto;
+    font-family: 'Caveat', cursive;
+    color: #FF4500;
+    font-size: 50px;  
+}
+
+.navbar {
+    list-style: none;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: auto;
+
+}
+
+.navbar li a{
+    transition: all 0.3s ease 0s;
+}
+
+.navbar li a:hover {
+    color: #0088a9;
+}
+
+.contact{
+    padding: 9px 20px;
+    background-color: #FF4500;
+    border: none;
+    border-radius: 50px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    color: #FAFAD2;
+}
+
+.contact:hover {
+    background-color: rgba(0, 136, 169, 0.8);
+}
+
