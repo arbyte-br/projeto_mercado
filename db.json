@@ -1,0 +1,9 @@
+{
+    "produtos": [
+      {"codigo": 1, "nome": "Maçã", "preco": 2.30, "foto": "img/maca.jpg"},
+      {"codigo": 2, "nome": "Uva", "preco": 2.30, "foto": "img/uva.jpg"},
+      {"codigo": 3, "nome": "Laranja", "preco": 2.30, "foto": "img/laranja.jpg"},
+      {"codigo": 4, "nome": "Tomate", "preco": 2.30, "foto": "img/tomate.jpg"},
+      {"codigo": 5, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"}
+    ]
+  }
