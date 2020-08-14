@@ -1,9 +1,19 @@
 {
     "produtos": [
-      {"codigo": 1, "nome": "Maçã", "preco": 2.30, "foto": "img/maca.jpg"},
-      {"codigo": 2, "nome": "Uva", "preco": 2.30, "foto": "img/uva.jpg"},
-      {"codigo": 3, "nome": "Laranja", "preco": 2.30, "foto": "img/laranja.jpg"},
-      {"codigo": 4, "nome": "Tomate", "preco": 2.30, "foto": "img/tomate.jpg"},
-      {"codigo": 5, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"}
+      {"codigo": 1, "nome": "Maçã", "preco": 3.89, "foto": "img/maca.jpg"},
+      {"codigo": 2, "nome": "Uva", "preco": 5.75, "foto": "img/uva.jpg"},
+      {"codigo": 3, "nome": "Laranja", "preco": 2.19, "foto": "img/laranja.jpg"},
+      {"codigo": 4, "nome": "Tomate", "preco": 4.69, "foto": "img/tomate.jpg"},
+      {"codigo": 5, "nome": "Pepino", "preco": 3.25, "foto": "img/pepino.jpg"},
+      {"codigo": 6, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 7, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 8, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 9, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 10, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 11, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 12, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 13, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 14, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"},
+      {"codigo": 15, "nome": "Pepino", "preco": 2.30, "foto": "img/pepino.jpg"}
     ]
   }
